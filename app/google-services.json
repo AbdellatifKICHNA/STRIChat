@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "841124465043",
+    "firebase_url": "https://stri-chat.firebaseio.com",
+    "project_id": "stri-chat",
+    "storage_bucket": "stri-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841124465043:android:ffd6e6566cb811f9",
+        "android_client_info": {
+          "package_name": "com.example.android.strichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841124465043-q4rmhcms3qrijdr4feibna2j6nl6qub2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.strichat",
+            "certificate_hash": "04253b94c75af9fc510eaf3dc132642d60bee57b"
+          }
+        },
+        {
+          "client_id": "841124465043-tgtn0uio4h7bo1vajh1v2k8lqi77i6qe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3oKY4LeSg9mQWJ9c-ljTotCZpueMu3BA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841124465043-tgtn0uio4h7bo1vajh1v2k8lqi77i6qe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
